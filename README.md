@@ -1,4 +1,4 @@
-# Time Series Analysis with Python (with changes)
+# Time Series Analysis with Python (with new changes)
 
 <div align="center">
    <img src="https://raw.githubusercontent.com/FilippoMB/python-time-series-handbook/main/logo.png" style="width: 5cm; display: block; margin: auto;">
